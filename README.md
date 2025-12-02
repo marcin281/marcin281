@@ -6,7 +6,7 @@
 
 - 💬 Description **I am a beginner web developer. I create simple applications in PHP, MySQL, and JS, as well as complete layouts in HTML/CSS. I also design and manage databases. I enjoy learning through projects and developing practical skills.**
 
-- 📫 How to reach me **morkzynskimarcin135@gmail.com**
+- 📫 How to reach me **marcin281381@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
