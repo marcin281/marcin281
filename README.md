@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">Beginner with programing from Poland</h3>
+<h3 align="center">Beginner programmer from Poland</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcin281&label=Profile%20views&color=0e75b6&style=flat" alt="marcin281" /> </p>
 
 - 🌱 I’m currently learning **SQL, JS**
