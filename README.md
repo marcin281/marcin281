@@ -2,9 +2,9 @@
 <h3 align="center">Beginner programmer from Poland</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcin281&label=Profile%20views&color=0e75b6&style=flat" alt="marcin281" /> </p>
 
-- 🌱 I’m currently learning **SQL, JS**
+- 🌱 I’m currently learning **SQL, JS and C++**
 
-- 💬 Description **I am a beginner web developer. I create simple applications in PHP, MySQL, and JS, as well as complete layouts in HTML/CSS. I also design and manage databases. I enjoy learning through projects and developing practical skills.**
+- 💬 Description **I am a beginner web developer and C++ programmer. I create simple applications in PHP, MySQL,C++ , and JS, as well as complete layouts in HTML/CSS. I also design and manage databases. I enjoy learning through projects and developing practical skills.**
 
 - 📫 How to reach me **marcin281281@gmail.com**
 
